@@ -1,3 +1,4 @@
+Commit2
 Hi, Updating in dev branch commit1
 inside master branch
 inside dev branch
