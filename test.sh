@@ -7,3 +7,4 @@ testing autotag
 testing autotag
 testing patch update
 testing minor update
+testing major update
