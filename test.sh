@@ -11,3 +11,4 @@ testing major update
 testing autotag
 testing default patch
 testing autotag
+testing patch
