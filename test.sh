@@ -8,3 +8,4 @@ testing autotag
 testing patch update
 testing minor update
 testing major update
+testing autotag
