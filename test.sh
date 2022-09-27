@@ -9,3 +9,4 @@ testing patch update
 testing minor update
 testing major update
 testing autotag
+testing default patch
