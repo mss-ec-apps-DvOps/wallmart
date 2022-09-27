@@ -5,3 +5,4 @@ testing minor
 testing major
 testing autotag
 testing autotag
+testing patch update
