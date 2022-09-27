@@ -12,3 +12,4 @@ testing autotag
 testing default patch
 testing autotag
 testing patch
+testing major autotag
